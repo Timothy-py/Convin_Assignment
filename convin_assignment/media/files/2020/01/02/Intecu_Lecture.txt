@@ -1,0 +1,16 @@
+Speaker	Idowu Ogunleye
+Topic	IP Addressing, Subnetting
+
+Brief History of Network Addressing
+Logical Address
+IANA - Internet Assigned Number Authority
+AFRINIC - African Network Information Centre
+
+Where IP comes from
+IANA - RIR - ISP - Network - Hosts
+
+IP Adrress
+32bit, 4octet, dotted decimal adress
+Operates on the network layer
+Total of 2power32 addresses
+4,294,967,296 addresses
